@@ -44,11 +44,10 @@
         "Bueng Kan"
     ],
     "name:eng_x_preferred":[
-        "Nong Khai"
+        "Bueng Kan"
     ],
     "name:eng_x_variant":[
-        "Changwat Nong Khai",
-        "Bueng Kan"
+        "Changwat Nong Khai"
     ],
     "name:fra_x_preferred":[
         "Bueng Kan"
@@ -200,7 +199,7 @@
     },
     "wof:concordances_official":"iso:code",
     "wof:country":"TH",
-    "wof:geomhash":"ccf7b71ac331d3880578098ec2ae08eb",
+    "wof:geomhash":"b8236851c38abc0da95f5462e02d6dab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -215,7 +214,7 @@
     "wof:lang_x_spoken":[
         "tha"
     ],
-    "wof:lastmodified":1695884779,
+    "wof:lastmodified":1739310941,
     "wof:name":"Bueng Kan",
     "wof:parent_id":85632293,
     "wof:placetype":"region",
